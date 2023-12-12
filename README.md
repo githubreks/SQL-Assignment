@@ -1,0 +1,2 @@
+# SQL-Assignment
+Extracting information  
